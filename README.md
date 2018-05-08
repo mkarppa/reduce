@@ -13,11 +13,11 @@ symmetry reduction; cf.
 This experimental software is supplied to accompany the aforementioned
 manuscript.
 
-##Licence
+## Licence
 
 The source code is subject to the MIT Licence, see 'LICENSE' for details.
 
-##Requirements
+## Requirements
 
 The software requires the following:
 - UNIX-like environment (GNU/Linux and MacOS X should work)
@@ -29,7 +29,7 @@ G++ 5.4.0, and G++ 6.4.0) and other relevant build tools (especially make)
 - For parallel execution, an MPI implementation is required
 (recommended: OpenMPI)
 
-##Build instructions
+## Build instructions
 
 1. Download 'nauty' from http://pallini.di.uniroma1.it/ and build it
 under nauty/ following instructions from the website (usually simply
